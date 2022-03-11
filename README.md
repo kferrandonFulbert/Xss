@@ -6,6 +6,7 @@ Cette attaque ne vise pas directement le site comme le ferait une injection SQL 
 Ce dernier ne fera aucune différence entre le code du site et celui injecté par le pirate, il va donc l'exécuter sans broncher. 
 Les possibilités sont nombreuses : redirection vers un autre site, vol de cookies, 
 modification du code HTML de la page, exécution d'exploits contre le navigateur : en bref, tout ce que ces langages de script vous permettent de faire.
+Plus d'information : [Cours] (https://www.hacksplaining.com/exercises/xss-stored#/)
 
 ## Context Mario-no parfum
 Mario-no est un site E-commerce spécialisé dans la vente de parfum. 
