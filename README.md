@@ -8,6 +8,10 @@ Les possibilités sont nombreuses : redirection vers un autre site, vol de cooki
 modification du code HTML de la page, exécution d'exploits contre le navigateur : en bref, tout ce que ces langages de script vous permettent de faire.
 Plus d'information : [Cours] (https://www.hacksplaining.com/exercises/xss-stored#/)
 
+## Rappel
+Le fait d'accéder ou de se maintenir, frauduleusement, dans tout ou partie d'un système de traitement automatisé de données est puni de deux ans d'emprisonnement et de 60 000 € d'amende.
+Le but est de comprendre le principe de l'attaque afin de mettre en place la sécurité adequat.
+
 ## Context Mario-no parfum
 Mario-no est un site E-commerce spécialisé dans la vente de parfum. 
 Une cliente a informé le service support d'une usurpation d'identitée.
