@@ -6,7 +6,7 @@ Cette attaque ne vise pas directement le site comme le ferait une injection SQL 
 Ce dernier ne fera aucune différence entre le code du site et celui injecté par le pirate, il va donc l'exécuter sans broncher. 
 Les possibilités sont nombreuses : redirection vers un autre site, vol de cookies, 
 modification du code HTML de la page, exécution d'exploits contre le navigateur : en bref, tout ce que ces langages de script vous permettent de faire.
-Plus d'information : [Cours] (https://www.hacksplaining.com/exercises/xss-stored#/)
+Plus d'information : [Cours](https://www.hacksplaining.com/exercises/xss-stored#/)
 
 ## Rappel
 Le fait d'accéder ou de se maintenir, frauduleusement, dans tout ou partie d'un système de traitement automatisé de données est puni de deux ans d'emprisonnement et de 60 000 € d'amende.
@@ -15,7 +15,7 @@ Le but est de comprendre le principe de l'attaque afin de mettre en place la sé
 ## Context Mario-no parfum
 Mario-no est un site E-commerce spécialisé dans la vente de parfum. 
 Une cliente a informé le service support d'une usurpation d'identitée.
-Elle fait appel a votre entreprise spécialisée dans la sécurité informatique et plus spécifiquement dans les attaques présentes dans le Top Ten de l'OWASP.
+Elle fait appel a votre entreprise spécialisée dans la sécurité informatique et plus spécifiquement dans les attaques présentes dans le [Top Ten de l'OWASP](https://owasp.org/Top10/).
 Vous êtes le consultant qui à été choisi pour trouver la faille et produire un exemple d'attaque pour faire une démnstration au client, puis proposer mettre des protections en place pour que le problème ne se reproduise pas.
 
 ## Chercher une faille
