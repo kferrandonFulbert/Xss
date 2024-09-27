@@ -22,6 +22,22 @@ Vous êtes le consultant qui à été choisi pour trouver la faille et produire 
 Trouver une faille dans le site puis essayez de trouver une facon d'injecter du code malvaillant.
 L'objectif: 
 Vous devez récupérer les cookies du site.
+Une fois la faille trouvée, renvoie les informations vers l'adresse de ton site malveilllant voir si tu les récupère bien: http://localhost/cyber/xss/hacked.php?cookie="...
+Ensuite écrit un mail à ton binome et envoie lui un mail de phishing : 
+
+Cher Client,
+
+Nous avons le plaisir de vous informer que nous avons lancé une offre promotionnelle exclusive pour nos clients.
+Pendant une durée limitée, vous pouvez bénéficier d'une réduction de 80% sur notre gamme de parfum.
+
+Pour en profiter, il vous suffit de saisir le code promo [#PARFUMOR2024] lors de votre <a href="lienMalveillant">prochaine commande en ligne</a> ou de mentionner l'offre lors de votre prochaine visite en magasin.
+
+N'hésitez pas à nous contacter pour plus d'informations ou pour toute demande de devis.
+Nous espérons vous accueillir bientôt.
+
+Bien à vous,
+
+Regarder la tete de votre binome.
 
 
 ## Correction
