@@ -22,7 +22,7 @@ Vous êtes le consultant qui à été choisi pour trouver la faille et produire 
 Trouver une faille dans le site puis essayez de trouver une facon d'injecter du code malvaillant.
 L'objectif: 
 Vous devez récupérer les cookies du site.
-Une fois la faille trouvée, renvoie les informations vers l'adresse de ton site malveilllant voir si tu les récupère bien: http://localhost/cyber/xss/hacked.php?cookie="...
+Une fois la faille trouvée, renvoie les informations vers l'adresse de ton site malveilllant voir si tu les récupère bien: http://192.168.56.1/cyber/xss/hacked.php?cookie="...
 Ensuite écrit un mail à ton binome et envoie lui un mail de phishing : 
 
 Cher Client,
